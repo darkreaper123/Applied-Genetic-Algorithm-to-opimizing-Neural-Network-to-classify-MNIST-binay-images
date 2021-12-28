@@ -1,0 +1,1 @@
+# Applied-Genetic-Algorithm-to-opimizing-Neural-Network-to-classify-MNIST-binay-images
